@@ -3,6 +3,7 @@
 
 <!-- prettier-ignore-start and welcome -->
 
+- [Lennart Sigge](https://github.com/THMKruemel)
 - [Divyansh Pratap Singh](https://github.com/divyansh2375)
 - [Vivek Kumar Shrivastav](https://github.com/Vivek-Kumar-Shrivastav)
 - [Rimma Kubanova](https://github.com/rimma-kubanova)
@@ -21,6 +22,7 @@
 - [Aaron Newbigging](https://github.com/Pastasource)
 - [Raymond Mason] (https://github.com/pepsibluefan2)
 - [Lion King](https://github.com/topmsdreamer)
+- [Lennart Sigge](https://github.com/THMKruemel)
 - [Olayinka Okanlawon](https://github.com/olayinkagrace)
 - [Sohail khan](https://github.com/Sohail700)
 - [Gary Mejia](https://github.com/garymejia)
